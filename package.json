@@ -1,0 +1,32 @@
+{
+  "name": "unit-test-in-js",
+  "version": "1.0.0",
+  "description": "Jest tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradiusalisik/unit-test-in-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Vladislav Grigorzhevskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gradiusalisik/unit-test-in-js/issues"
+  },
+  "homepage": "https://github.com/gradiusalisik/unit-test-in-js#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
